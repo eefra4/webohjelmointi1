@@ -19,3 +19,7 @@ footer {
 
     /* 20px marginaalia yhläällä ja alhaalla */
   }
+
+  a {
+    color: black;
+  }
